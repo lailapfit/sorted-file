@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class SortingFile {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		File unsortedIncomingFile = new File("unsorted.rtf");
+		File unsortedIncomingFile = new File("unsorted.txt");
 
 		File sortedFile = new File("sorted.txt");
 

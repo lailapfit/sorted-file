@@ -1,3 +1,4 @@
+is
 of
 the
 and
@@ -6,16 +7,16 @@ the
 text
 been
 text
-Lorem
+ever
+Ipsum
 dummy
 Lorem
 Ipsum
 dummy
-ever}
+﻿Lorem
 simply
 printing
 industry
 standard
 industrys
-Ipsum\'a0is
 typesetting
